@@ -1,0 +1,37 @@
+.gen-headings{
+    background-color: #F0F0F0;
+    color: #A4A400;
+    font-family:'Lucida Sans Unicode', Helvetica, Arial, sans-serif;
+    text-decoration: underline;
+}
+
+.main-heading{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.headings{
+    font-size: 18px;
+}
+
+.main{
+    color: #404040;
+    font-size: 11px;
+    font-family: Georgia, Garamond, serif;
+    background-image: url("images/background.gif");
+    background-attachment: fixed;
+}
+.underline{
+    text-decoration: underline;
+}
+.comments{
+    background-color: #FFFFA8;
+}
+.link{
+    color: #A4A400;
+    text-decoration: underline;
+}
+.mono{
+    font-family: monospace;
+}
