@@ -1,5 +1,6 @@
 
-w3d4/*/node_modules/*
+*/*/node_modules/*
+*/node_modules/*
 
 .idea
 .vscode
